@@ -7,7 +7,7 @@
     "semver": "2.x",
     "fs-extra": "0.6.x",
     "async": "0.2.x",
-    "request": "2.27.x",
+    "request": "2.88.x",
     "temp": "~0.6.0"
   },
   "devDependencies": {
